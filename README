@@ -1,0 +1,22 @@
+Match - Shovel Problem
+
+There are four matches placed in a grid in such way that the shape represents a shovel. Inside the shovel there is a trash. The goal of the game is to reform the shovel in such way that it does not include the trash. The player is allowed to use only two moves.
+
+Example:
+
+State 1:
+   ****
+**** &
+   ****
+   
+State 2:
+    ***
+**** &
+   ****
+   *
+   
+State 3:
+    
+**** &
+   ****
+****
